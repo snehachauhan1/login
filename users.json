@@ -1,0 +1,31 @@
+[
+  {
+    "username": "smriti",
+    "password": "123"
+  },
+  {
+    "username": "sneha",
+    "email": "sneha@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "esha",
+    "email": "esha@gmail.com",
+    "password": "12345"
+  },
+  {
+    "username": "rohan",
+    "email": "rohan@gmail.com",
+    "password": "234"
+  },
+  {
+    "username": "Sneha",
+    "email": "sneha@gmail.com",
+    "password": "1234"
+  },
+  {
+    "username": "Sneha Chauhan",
+    "email": "sneha@gmail.com",
+    "password": "123"
+  }
+]
